@@ -27,6 +27,10 @@ li {
   border-radius: 10px;
   max-width: 600px;
 }
+.name {
+  margin: 20px auto;
+  max-width: 600px;
+}
 
 .weather-icon {
   height: 64px;
